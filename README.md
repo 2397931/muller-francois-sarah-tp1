@@ -1,1 +1,4 @@
 # muller-francois-sarah-tp1
+
+1. Définir la thématique de la scène interactive que vous allez développer :
+   Donc l'ambiance visuelle dans ma scène interactive va être relier à l'espace donc il va y avoir la terre au millieu de l'écran et l'arrière plan va être l'espace avec des étoiles. L'ambiance sonore va être une musique qui donne l'effet d'être en train de flotter dans l'espace. Il y aura différent effets sonore lorsque la terre se fera heurter et lorsque le joueur bloquera les astéroïdes. Si le joueur ne réussis pas à défrendre la terre après 3 chances, la terre va exploser il y aura donc un bruit d'explosion et il y aura aussi un son d'échec. Si le joueur réussi au son de victoire va jouer et cela seulment après 1:30 de jeu. Le joueur bougera le bouclier avec le flèche pour proteger la terre.
